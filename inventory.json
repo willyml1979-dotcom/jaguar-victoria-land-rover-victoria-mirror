@@ -1,6 +1,6 @@
 {
   "dealership": "Jaguar Victoria Land Rover Victoria",
-  "generated_at": "2026-10-25T19:10:04",
+  "generated_at": "2026-10-25T19:15:25",
   "vehicle_count": 89,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -10,7 +10,7 @@
       "vin": "SALRL4EU5S2510135",
       "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/c201436675c7.html",
       "condition": "new",
-      "price": 75998.0,
+      "price": 73888.0,
       "price_currency": "CAD"
     },
     {
@@ -589,7 +589,7 @@
       "make": "Range",
       "model": "Rover Velar Dynamic SE",
       "condition": "new",
-      "price": 58998.0,
+      "price": 55998.0,
       "price_currency": "CAD"
     },
     {
