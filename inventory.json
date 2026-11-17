@@ -1,50 +1,10 @@
 {
   "dealership": "Jaguar Victoria Land Rover Victoria",
-  "generated_at": "2026-11-16T22:49:19",
-  "vehicle_count": 93,
+  "generated_at": "2026-11-16T22:57:54",
+  "vehicle_count": 83,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
-    {
-      "name": "Land Rover2025 Discovery Dynamic SE",
-      "vin": "SALRL4EU5S2510135",
-      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/c201436675c7.html",
-      "condition": "new",
-      "price": 73888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Land Rover2025 Discovery Dynamic SE",
-      "vin": "SALRL2FX5S2517633",
-      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/c968672d81ba.html",
-      "condition": "new",
-      "price": 74998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Land Rover2025 Discovery Sport Dynamic SE",
-      "vin": "SALCL2FX9SH371417",
-      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/70cb23421ebd.html",
-      "condition": "new",
-      "price": 48998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Land Rover2025 Discovery Sport Dynamic SE",
-      "vin": "SALCL2FX0SH371595",
-      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/9c5dc066ee69.html",
-      "condition": "new",
-      "price": 47998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Land Rover2025 Discovery Sport Dynamic HSE",
-      "vin": "SALCM2FX9SH361015",
-      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/2022ce419148.html",
-      "condition": "new",
-      "price": 49998.0,
-      "price_currency": "CAD"
-    },
     {
       "name": "2012  RANGE ROVER SPORT",
       "vin": "SALSK2D48CA719175",
@@ -328,28 +288,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Range Rover Sport Dynamic SE",
-      "vin": "SAL1L9E98SA473951",
-      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/bde3ae83b9fa.html",
-      "year": 2025,
-      "make": "Range",
-      "model": "Rover Sport Dynamic SE",
-      "condition": "new",
-      "price": 124998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Range Rover Sport Dynamic SE",
-      "vin": "SAL1L9FU7SA602622",
-      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/9203f861ba39.html",
-      "year": 2025,
-      "make": "Range",
-      "model": "Rover Sport Dynamic SE",
-      "condition": "new",
-      "price": 103998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026  DEFENDER",
       "vin": "SALE2FEU9T2616957",
       "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/deddddc08017.html",
@@ -379,17 +317,6 @@
       "model": "110 S",
       "condition": "new",
       "price": 92930.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Defender 110 S",
-      "vin": "SALEJEEU3T2637638",
-      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/d01ae3895034.html",
-      "year": 2026,
-      "make": "Defender",
-      "model": "110 S",
-      "condition": "new",
-      "price": 109520.0,
       "price_currency": "CAD"
     },
     {
@@ -471,17 +398,6 @@
     },
     {
       "name": "2026 Defender 110 X-Dynamic SE",
-      "vin": "SALE27EU1T2677838",
-      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/b0313dbdc212.html",
-      "year": 2026,
-      "make": "Defender",
-      "model": "110 X-Dynamic SE",
-      "condition": "new",
-      "price": 108180.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Defender 110 X-Dynamic SE",
       "vin": "SALE2EFE4T2678686",
       "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/c2bc24a6eeb4.html",
       "year": 2026,
@@ -489,6 +405,39 @@
       "model": "110 X-Dynamic SE",
       "condition": "new",
       "price": 137730.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Defender 110 X-Dynamic SE",
+      "vin": "SALE27EU4T2678210",
+      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/7e89d68f3a25.html",
+      "year": 2026,
+      "make": "Defender",
+      "model": "110 X-Dynamic SE",
+      "condition": "new",
+      "price": 105730.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Defender 110 X-Dynamic SE",
+      "vin": "SALE27EU7T2678217",
+      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/2080a4dfcf83.html",
+      "year": 2026,
+      "make": "Defender",
+      "model": "110 X-Dynamic SE",
+      "condition": "new",
+      "price": 106430.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Defender 110 X-Dynamic SE",
+      "vin": "SALE2EEU7T2681459",
+      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/17cad7d1d3c0.html",
+      "year": 2026,
+      "make": "Defender",
+      "model": "110 X-Dynamic SE",
+      "condition": "new",
+      "price": 108140.0,
       "price_currency": "CAD"
     },
     {
@@ -514,17 +463,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Range Rover Velar Dynamic SE",
-      "vin": "SALYL2EX1TA816055",
-      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/654023e7bec0.html",
-      "year": 2026,
-      "make": "Range",
-      "model": "Rover Velar Dynamic SE",
-      "condition": "new",
-      "price": 55998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Range Rover Evoque S",
       "vin": "SALZJ2FX3TH292312",
       "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/b579dd358b8f.html",
@@ -544,28 +482,6 @@
       "model": "Rover Velar Dynamic SE",
       "condition": "new",
       "price": 78260.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Range Rover Velar Dynamic SE",
-      "vin": "SALYL2EU9TA820392",
-      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/c122ae4cf408.html",
-      "year": 2026,
-      "make": "Range",
-      "model": "Rover Velar Dynamic SE",
-      "condition": "new",
-      "price": 64998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Range Rover Velar Dynamic SE",
-      "vin": "SALYL2EU0TA820961",
-      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/f528181cee50.html",
-      "year": 2026,
-      "make": "Range",
-      "model": "Rover Velar Dynamic SE",
-      "condition": "new",
-      "price": 65998.0,
       "price_currency": "CAD"
     },
     {
@@ -621,17 +537,6 @@
       "model": "Rover Sport Dynamic SE",
       "condition": "new",
       "price": 139890.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Range Rover Velar Dynamic SE",
-      "vin": "SALYL2EX3TA830166",
-      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/809e4d8c3e31.html",
-      "year": 2026,
-      "make": "Range",
-      "model": "Rover Velar Dynamic SE",
-      "condition": "new",
-      "price": 55998.0,
       "price_currency": "CAD"
     },
     {
@@ -840,7 +745,7 @@
       "make": "Range",
       "model": "Rover Velar Belgravia Edition",
       "condition": "new",
-      "price": 92010.0,
+      "price": 89998.0,
       "price_currency": "CAD"
     },
     {
