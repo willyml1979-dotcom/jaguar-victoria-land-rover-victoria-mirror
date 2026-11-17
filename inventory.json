@@ -1,7 +1,7 @@
 {
   "dealership": "Jaguar Victoria Land Rover Victoria",
-  "generated_at": "2026-10-26T04:27:05",
-  "vehicle_count": 89,
+  "generated_at": "2026-11-16T22:49:19",
+  "vehicle_count": 93,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -46,17 +46,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2008 Ford RANGER",
-      "vin": "1FTZR45E08PA26173",
-      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/6a19eed86515.html",
-      "year": 2008,
-      "make": "Ford",
-      "model": "RANGER",
-      "condition": "used",
-      "price": 13998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2012  RANGE ROVER SPORT",
       "vin": "SALSK2D48CA719175",
       "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/60143f2bb2eb.html",
@@ -68,25 +57,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 BMW X1",
-      "vin": "WBXHT3C37H5F73788",
-      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/abb725bbaa40.html",
-      "year": 2017,
-      "make": "BMW",
-      "model": "X1",
+      "name": "2014 Audi SQ5",
+      "vin": "WA1CGAFPXEA107975",
+      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/358bc58283ee.html",
+      "year": 2014,
+      "make": "Audi",
+      "model": "SQ5",
       "condition": "used",
-      "price": 16998.0,
+      "price": 14998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Audi S3 SEDAN",
-      "vin": "WAUB1GFF1KA075410",
-      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/28cab665f998.html",
-      "year": 2019,
-      "make": "Audi",
-      "model": "S3 SEDAN",
+      "name": "2015 Jeep GRAND CHEROKEE",
+      "vin": "1C4RJFBG9FC874758",
+      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/4b8dc83dc889.html",
+      "year": 2015,
+      "make": "Jeep",
+      "model": "GRAND CHEROKEE",
       "condition": "used",
-      "price": 24998.0,
+      "price": 20998.0,
       "price_currency": "CAD"
     },
     {
@@ -112,25 +101,24 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Porsche MACAN",
-      "vin": "WP1AB2A5XLLB31443",
-      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/3425ffc87f17.html",
+      "name": "2020  RANGE ROVER",
+      "vin": "SALGS2RU1LA595328",
+      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/f66e3875c50c.html",
       "year": 2020,
-      "make": "Porsche",
-      "model": "MACAN",
+      "make": "RANGE",
+      "model": "ROVER",
       "condition": "used",
-      "price": 39998.0,
+      "price": 47998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Porsche CAYENNE",
-      "vin": "WP1AA2AYXMDA02241",
-      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/be895f1dc953.html",
+      "name": "2021  DEFENDER",
+      "vin": "SALE2ERU4M2036456",
+      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/fc4a3debeaba.html",
       "year": 2021,
-      "make": "Porsche",
-      "model": "CAYENNE",
+      "make": "DEFENDER",
       "condition": "used",
-      "price": 52998.0,
+      "price": 53998.0,
       "price_currency": "CAD"
     },
     {
@@ -141,18 +129,7 @@
       "make": "RANGE",
       "model": "ROVER VELAR",
       "condition": "used",
-      "price": 34998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford F-150",
-      "vin": "1FTMF1E52NKE08392",
-      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/b0365c6a2064.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 39998.0,
+      "price": 31998.0,
       "price_currency": "CAD"
     },
     {
@@ -163,29 +140,28 @@
       "make": "RANGE",
       "model": "ROVER",
       "condition": "used",
-      "price": 107500.0,
+      "price": 105998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Toyota COROLLA HATCHBACK",
-      "vin": "JTNK4MBE9N3159386",
-      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/dc0c094eac97.html",
-      "year": 2022,
-      "make": "Toyota",
-      "model": "COROLLA HATCHBACK",
-      "condition": "used",
-      "price": 24998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Jeep WAGONEER",
-      "vin": "1C4SJVBP3PS510192",
-      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/1eb73e4cfd36.html",
+      "name": "2023 BMW 4 SERIES",
+      "vin": "WBA13AR03PCM46749",
+      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/b4b8d5bcdad8.html",
       "year": 2023,
-      "make": "Jeep",
-      "model": "WAGONEER",
+      "make": "BMW",
+      "model": "4 SERIES",
       "condition": "used",
-      "price": 52998.0,
+      "price": 56998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023  DEFENDER",
+      "vin": "SALEP7EU9P2175425",
+      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/bbb2c38f83e6.html",
+      "year": 2023,
+      "make": "DEFENDER",
+      "condition": "used",
+      "price": 59998.0,
       "price_currency": "CAD"
     },
     {
@@ -196,7 +172,7 @@
       "make": "RANGE",
       "model": "ROVER",
       "condition": "used",
-      "price": 99998.0,
+      "price": 98888.0,
       "price_currency": "CAD"
     },
     {
@@ -207,7 +183,7 @@
       "make": "RANGE",
       "model": "ROVER VELAR",
       "condition": "used",
-      "price": 46998.0,
+      "price": 45888.0,
       "price_currency": "CAD"
     },
     {
@@ -229,18 +205,7 @@
       "make": "Ford",
       "model": "BRONCO",
       "condition": "used",
-      "price": 59998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024  RANGE ROVER",
-      "vin": "SALKP9E97RA219926",
-      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/323341d7759a.html",
-      "year": 2024,
-      "make": "RANGE",
-      "model": "ROVER",
-      "condition": "used",
-      "price": 121498.0,
+      "price": 58888.0,
       "price_currency": "CAD"
     },
     {
@@ -251,7 +216,7 @@
       "make": "RANGE",
       "model": "ROVER SPORT",
       "condition": "used",
-      "price": 90998.0,
+      "price": 89888.0,
       "price_currency": "CAD"
     },
     {
@@ -262,7 +227,7 @@
       "make": "RANGE",
       "model": "ROVER SPORT",
       "condition": "used",
-      "price": 88888.0,
+      "price": 86888.0,
       "price_currency": "CAD"
     },
     {
@@ -297,6 +262,50 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Land Rover DISCOVERY",
+      "vin": "SALRL4EU5S2510135",
+      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/2aae12e7f990.html",
+      "year": 2025,
+      "make": "Land",
+      "model": "Rover DISCOVERY",
+      "condition": "used",
+      "price": 65998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Land Rover DISCOVERY",
+      "vin": "SALRL2FX5S2517633",
+      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/edbe59fa9bb0.html",
+      "year": 2025,
+      "make": "Land",
+      "model": "Rover DISCOVERY",
+      "condition": "used",
+      "price": 73598.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Land Rover DISCOVERY SPORT",
+      "vin": "SALCL2FX9SH371417",
+      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/8d495e6e3db8.html",
+      "year": 2025,
+      "make": "Land",
+      "model": "Rover DISCOVERY SPORT",
+      "condition": "used",
+      "price": 48998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Land Rover DISCOVERY SPORT",
+      "vin": "SALCL2FX0SH371595",
+      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/e1703b5ddbaf.html",
+      "year": 2025,
+      "make": "Land",
+      "model": "Rover DISCOVERY SPORT",
+      "condition": "used",
+      "price": 47998.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025  RANGE ROVER SPORT",
       "vin": "SAL1L9FU7SA423304",
       "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/b4b9f4fd1a7c.html",
@@ -305,6 +314,17 @@
       "model": "ROVER SPORT",
       "condition": "used",
       "price": 97998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025  RANGE ROVER SPORT",
+      "vin": "SAL1L9E98SA473951",
+      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/8f452a4e34ef.html",
+      "year": 2025,
+      "make": "RANGE",
+      "model": "ROVER SPORT",
+      "condition": "used",
+      "price": 124998.0,
       "price_currency": "CAD"
     },
     {
@@ -336,7 +356,7 @@
       "year": 2026,
       "make": "DEFENDER",
       "condition": "used",
-      "price": 112500.0,
+      "price": 109500.0,
       "price_currency": "CAD"
     },
     {
@@ -469,6 +489,28 @@
       "model": "110 X-Dynamic SE",
       "condition": "new",
       "price": 137730.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026  RANGE ROVER VELAR",
+      "vin": "SALYL2EU0TA820961",
+      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/addefa1a4e38.html",
+      "year": 2026,
+      "make": "RANGE",
+      "model": "ROVER VELAR",
+      "condition": "used",
+      "price": 61998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026  RANGE ROVER VELAR",
+      "vin": "SALYL2EX3TA830166",
+      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/e1f355f68b6c.html",
+      "year": 2026,
+      "make": "RANGE",
+      "model": "ROVER VELAR",
+      "condition": "used",
+      "price": 55498.0,
       "price_currency": "CAD"
     },
     {
@@ -842,7 +884,7 @@
       "make": "Volvo",
       "model": "XC90 PLUG-IN HYBRID",
       "condition": "used",
-      "price": 79998.0,
+      "price": 78998.0,
       "price_currency": "CAD"
     },
     {
