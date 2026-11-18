@@ -1,7 +1,7 @@
 {
   "dealership": "Jaguar Victoria Land Rover Victoria",
-  "generated_at": "2026-11-18T14:13:27",
-  "vehicle_count": 86,
+  "generated_at": "2026-11-18T14:18:59",
+  "vehicle_count": 92,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -646,7 +646,7 @@
       "make": "Range",
       "model": "Rover Sport Dynamic SE",
       "condition": "new",
-      "price": 126545.0,
+      "price": 123545.0,
       "price_currency": "CAD"
     },
     {
@@ -679,7 +679,7 @@
       "make": "Range",
       "model": "Rover SE SWB",
       "condition": "new",
-      "price": 174215.0,
+      "price": 169915.0,
       "price_currency": "CAD"
     },
     {
@@ -723,7 +723,7 @@
       "make": "Range",
       "model": "Rover Sport S",
       "condition": "new",
-      "price": 110395.0,
+      "price": 106395.0,
       "price_currency": "CAD"
     },
     {
@@ -734,7 +734,7 @@
       "make": "Range",
       "model": "Rover Sport S",
       "condition": "new",
-      "price": 109545.0,
+      "price": 104545.0,
       "price_currency": "CAD"
     },
     {
@@ -944,6 +944,72 @@
       "model": "Rover Sport Mild Hybrid Dynamic SE",
       "condition": "new",
       "price": 123140.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Range Rover Sport Mild Hybrid Dynamic SE",
+      "vin": "SAL1L9FUXVA680350",
+      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/5f0bc8fecf04.html",
+      "year": 2027,
+      "make": "Range",
+      "model": "Rover Sport Mild Hybrid Dynamic SE",
+      "condition": "new",
+      "price": 128405.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Range Rover Plug-in Hybrid SE",
+      "vin": "SALKP9F45VA404098",
+      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/9822f0cd9d56.html",
+      "year": 2027,
+      "make": "Range",
+      "model": "Rover Plug-in Hybrid SE",
+      "condition": "new",
+      "price": 175925.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Range Rover Sport Mild Hybrid Dynamic SE",
+      "vin": "SAL1L9FU2VA680942",
+      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/5b3eb6fd2b26.html",
+      "year": 2027,
+      "make": "Range",
+      "model": "Rover Sport Mild Hybrid Dynamic SE",
+      "condition": "new",
+      "price": 119495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Range Rover Sport Mild Hybrid Dynamic SE",
+      "vin": "SAL1L9FU1VA688207",
+      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/feb30d3e12d2.html",
+      "year": 2027,
+      "make": "Range",
+      "model": "Rover Sport Mild Hybrid Dynamic SE",
+      "condition": "new",
+      "price": 129735.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Range Rover Mild Hybrid SE SWB",
+      "vin": "SALKP9E9XVA402957",
+      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/823338cd8f42.html",
+      "year": 2027,
+      "make": "Range",
+      "model": "Rover Mild Hybrid SE SWB",
+      "condition": "new",
+      "price": 172925.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Range Rover Sport Mild Hybrid Dynamic SE",
+      "vin": "SAL1L9FUXVA688562",
+      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/639ede31e827.html",
+      "year": 2027,
+      "make": "Range",
+      "model": "Rover Sport Mild Hybrid Dynamic SE",
+      "condition": "new",
+      "price": 120845.0,
       "price_currency": "CAD"
     }
   ]

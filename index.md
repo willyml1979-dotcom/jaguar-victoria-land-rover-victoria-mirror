@@ -1,6 +1,6 @@
 # Jaguar Victoria/Land Rover Victoria
 
- dealership in Victoria. AI-readable inventory mirror, about 86 vehicles.
+ dealership in Victoria. AI-readable inventory mirror, about 92 vehicles.
 
 - Official website: https://www.landrovervictoria.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/
