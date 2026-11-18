@@ -7,7 +7,7 @@ Jaguar Victoria/Land Rover Victoria is a  dealership in Victoria. This site is a
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/ and https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/ (about 84 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/ and https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/ (about 87 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/llms.txt

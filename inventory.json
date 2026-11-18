@@ -1,7 +1,7 @@
 {
   "dealership": "Jaguar Victoria Land Rover Victoria",
-  "generated_at": "2026-11-17T20:22:26",
-  "vehicle_count": 84,
+  "generated_at": "2026-11-17T20:27:50",
+  "vehicle_count": 87,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -382,7 +382,7 @@
       "make": "Defender",
       "model": "110 Octa",
       "condition": "new",
-      "price": 192730.0,
+      "price": 189730.0,
       "price_currency": "CAD"
     },
     {
@@ -404,7 +404,7 @@
       "make": "Defender",
       "model": "110 S",
       "condition": "new",
-      "price": 99580.0,
+      "price": 96580.0,
       "price_currency": "CAD"
     },
     {
@@ -793,6 +793,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Range Rover Velar Autobiography",
+      "vin": "SALY12FU7TA844534",
+      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/c40f0f4140e9.html",
+      "year": 2026,
+      "make": "Range",
+      "model": "Rover Velar Autobiography",
+      "condition": "new",
+      "price": 99020.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Range Rover Velar Autobiography",
+      "vin": "SALY12FUXTA844186",
+      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/c4af287941fa.html",
+      "year": 2026,
+      "make": "Range",
+      "model": "Rover Velar Autobiography",
+      "condition": "new",
+      "price": 98370.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Volvo XC90 PLUG-IN HYBRID",
       "vin": "YV4H60JF7T1452673",
       "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/31af282aaa5a.html",
@@ -801,6 +823,17 @@
       "model": "XC90 PLUG-IN HYBRID",
       "condition": "used",
       "price": 78998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Defender 110 X",
+      "vin": "SALEX7EU7V2682451",
+      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/new/dc3121d06fa7.html",
+      "year": 2027,
+      "make": "Defender",
+      "model": "110 X",
+      "condition": "new",
+      "price": 121280.0,
       "price_currency": "CAD"
     },
     {
@@ -910,7 +943,7 @@
       "make": "Range",
       "model": "Rover Sport Mild Hybrid Dynamic SE",
       "condition": "new",
-      "price": 123005.0,
+      "price": 119005.0,
       "price_currency": "CAD"
     },
     {
