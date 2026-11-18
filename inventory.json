@@ -1,6 +1,6 @@
 {
   "dealership": "Jaguar Victoria Land Rover Victoria",
-  "generated_at": "2026-11-18T05:48:21",
+  "generated_at": "2026-11-18T05:52:25",
   "vehicle_count": 86,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -316,7 +316,7 @@
       "make": "Defender",
       "model": "110 S",
       "condition": "new",
-      "price": 92930.0,
+      "price": 90930.0,
       "price_currency": "CAD"
     },
     {
@@ -613,7 +613,7 @@
       "make": "Range",
       "model": "Rover SE SWB",
       "condition": "new",
-      "price": 181910.0,
+      "price": 178910.0,
       "price_currency": "CAD"
     },
     {
@@ -624,7 +624,7 @@
       "make": "Range",
       "model": "Rover Sport Dynamic SE",
       "condition": "new",
-      "price": 139845.0,
+      "price": 136845.0,
       "price_currency": "CAD"
     },
     {
@@ -943,7 +943,7 @@
       "make": "Range",
       "model": "Rover Sport Mild Hybrid Dynamic SE",
       "condition": "new",
-      "price": 126140.0,
+      "price": 123140.0,
       "price_currency": "CAD"
     }
   ]
