@@ -1,7 +1,7 @@
 {
   "dealership": "Jaguar Victoria Land Rover Victoria",
-  "generated_at": "2026-11-17T20:27:50",
-  "vehicle_count": 87,
+  "generated_at": "2026-11-18T05:48:21",
+  "vehicle_count": 86,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -154,7 +154,7 @@
       "make": "RANGE",
       "model": "ROVER VELAR",
       "condition": "used",
-      "price": 45888.0,
+      "price": 44998.0,
       "price_currency": "CAD"
     },
     {
@@ -187,7 +187,7 @@
       "make": "RANGE",
       "model": "ROVER SPORT",
       "condition": "used",
-      "price": 89888.0,
+      "price": 86998.0,
       "price_currency": "CAD"
     },
     {
@@ -198,7 +198,7 @@
       "make": "RANGE",
       "model": "ROVER SPORT",
       "condition": "used",
-      "price": 86888.0,
+      "price": 82998.0,
       "price_currency": "CAD"
     },
     {
@@ -241,17 +241,6 @@
       "model": "Rover DISCOVERY",
       "condition": "used",
       "price": 62998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Land Rover DISCOVERY",
-      "vin": "SALRL2FX5S2517633",
-      "url": "https://willyml1979-dotcom.github.io/jaguar-victoria-land-rover-victoria-mirror/used/edbe59fa9bb0.html",
-      "year": 2025,
-      "make": "Land",
-      "model": "Rover DISCOVERY",
-      "condition": "used",
-      "price": 73598.0,
       "price_currency": "CAD"
     },
     {
@@ -305,7 +294,7 @@
       "year": 2026,
       "make": "DEFENDER",
       "condition": "used",
-      "price": 109500.0,
+      "price": 107500.0,
       "price_currency": "CAD"
     },
     {
@@ -822,7 +811,7 @@
       "make": "Volvo",
       "model": "XC90 PLUG-IN HYBRID",
       "condition": "used",
-      "price": 78998.0,
+      "price": 77500.0,
       "price_currency": "CAD"
     },
     {
